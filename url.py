@@ -1,0 +1,1 @@
+scrneer = "https://www.screener.in"
