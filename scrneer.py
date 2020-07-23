@@ -10,14 +10,13 @@ print("Server Running")
 
 def make_reply(msg):
     if msg is not None:
-        answer = valueinvest.browse(msg)
+        #answer = valueinvest.browse(msg)
         #os.system("/usr/bin/python3 /home/shrihari/Desktop/javaScript/tools/valueInvest/valueinvest.py")
         # f = open("/home/shrihari/Desktop/javaScript/tools/telegramChatbox/itc ltd.txt" ,"r")
         # reply = f.read()
-        answer = answer.replace('&', 'and')
-        print(answer)
+        #answer = answer.replace('&', 'and')
         
-    return answer
+    return msg
 
 update_id = None
 while True:
