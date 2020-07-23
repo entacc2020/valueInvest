@@ -15,7 +15,6 @@ def make_reply(msg):
         # f = open("/home/shrihari/Desktop/javaScript/tools/telegramChatbox/itc ltd.txt" ,"r")
         # reply = f.read()
         #answer = answer.replace('&', 'and')
-        
     return msg
 
 update_id = None
