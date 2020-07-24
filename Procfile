@@ -1,1 +1,1 @@
-worker:python3 scrneer.py
+web:python3 scrneer.py
